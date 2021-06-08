@@ -1,0 +1,19 @@
+/* a {
+  text-decoration: none;
+} */
+
+a:hover {
+  border-bottom: 1px solid black;
+  background: #e3e3e3;
+}
+/* a:visited {
+  color: green;
+} */
+
+button:active {
+  color: orange;
+}
+
+ul {
+  list-style: none;
+}
